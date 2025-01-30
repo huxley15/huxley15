@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Kyle!
-- 👀 I’m interested in learning how to write code
-- 🌱 I’m currently training to learn programming in C#, querying data with Transact-SQL, programming in HTML5 with JavaScript and CSS3, GitHub fundamentals, and developing ASP.NET Core MVC Web Applications through MSSA.
-- 💞️ I’m looking to collaborate on beginner projects that will help me better learn the fundamentals and get better :o)
+- 👀 I’m interested in becoming a better software engineer and collaborator.
+- 🌱 I’m currently in school working towards my degree in Computer Science and Engineering.
+- 💞️ I’m looking to collaborate on projects that will help me practice complex data structures and algorithms. 
 - 📫 Feel free to reach out to me through LinkedIn!
 
 <!---
